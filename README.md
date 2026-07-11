@@ -78,15 +78,15 @@ contact:       linkedin.com/in/shalva-lekishvili
 | Certificate | Issued | Expires | Credential |
 |---|---|---|---|
 | 🏅 AOC 2025 Certificate | Dec 2025 | — | `THM-EGTUQF4CAI` |
-| 🕵️ CTI – CISA JCDC Triage Fusion & Analysis (Apprentice) | Nov 2025 | Nov 2035 | `THM-JVR3U2HPKS` |
-| ⚙️ Security Engineer | Sep 2025 | Sep 2028 | `THM-2MWEFSMO18` |
-| 🔵 SOC Level 1 | Sep 2025 | Sep 2030 | `THM-YHFGKSGY28` |
-| 🔵 SOC Level 2 | Sep 2025 | Sep 2030 | `THM-TH8U8ODRGS` |
-| 🔴 Offensive Pentesting | Sep 2025 | Sep 2030 | `THM-O5YB6D7QMZ` |
-| 🌐 Web Fundamentals | Sep 2025 | Sep 2028 | `THM-Y05LJ9JOTY` |
-| 📜 CompTIA Pentest+ | Sep 2025 | Sep 2028 | `THM-JSEWACT2EY` |
-| 🥋 Jr Penetration Tester | Sep 2025 | Sep 2030 | `THM-DFCKXEC7AT` |
-| 🎯 Red Teaming | Sep 2025 | Sep 2030 | `THM-HEX0VWNFTS` |
+| 🕵️ CTI – CISA JCDC Triage Fusion & Analysis (Apprentice) | Nov 2025 | - | `THM-JVR3U2HPKS` |
+| ⚙️ Security Engineer | Sep 2025 | - | `THM-2MWEFSMO18` |
+| 🔵 SOC Level 1 | Sep 2025 | - | `THM-YHFGKSGY28` |
+| 🔵 SOC Level 2 | Sep 2025 | - | `THM-TH8U8ODRGS` |
+| 🔴 Offensive Pentesting | Sep 2025 | - | `THM-O5YB6D7QMZ` |
+| 🌐 Web Fundamentals | Sep 2025 | - | `THM-Y05LJ9JOTY` |
+| 📜 CompTIA Pentest+ | Sep 2025 | - | `THM-JSEWACT2EY` |
+| 🥋 Jr Penetration Tester | Sep 2025 | - | `THM-DFCKXEC7AT` |
+| 🎯 Red Teaming | Sep 2025 | - | `THM-HEX0VWNFTS` |
 
 </details>
 

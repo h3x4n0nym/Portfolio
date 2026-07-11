@@ -79,11 +79,11 @@ status:        [ONLINE] actively hunting threats
 
 <img src="https://skillicons.dev/icons?i=linux,py,bash,git&theme=dark" />
 <br/>
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logoColor=red)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=2596CD)
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00FF41)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=2596CD)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 </div>

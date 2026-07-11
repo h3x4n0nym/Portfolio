@@ -1,16 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shalva%20Lekishvili&fontSize=48&fontColor=00FF41&fontAlignY=38&desc=Cybersecurity%20|%20SOC%20Analyst%20|%20Penetration%20Testing&descAlignY=58&descColor=8be9fd&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Shalva%20Lekishvili&fontSize=50&fontColor=00FF41&fontAlignY=35&desc=Cybersecurity%20|%20SOC%20Analyst%20|%20Penetration%20Testing&descAlignY=55&descColor=8be9fd&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=whoami+%3D+SOC+Analyst+%2B+Threat+Hunter;sudo+access+granted%3A+Red+%2B+Blue+Team;nmap+-sV+--script+vuln+skills.txt;Securing+systems%2C+one+CVE+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=root%40h3x4n0nym%3A~%23+whoami;%3E+SOC+Analyst+%7C+Threat+Hunter+%7C+Pentester;root%40h3x4n0nym%3A~%23+cat+mission.txt;%3E+Securing+systems%2C+one+CVE+at+a+time." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/shalva-lekishvili/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=shalva-lekishvili&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/Status-Actively%20Hunting%20Threats-black?style=for-the-badge&logo=target&logoColor=00FF41" />
+<a href="https://www.linkedin.com/in/shalva-lekishvili/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/h3x4n0nym"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+<img src="https://komarev.com/ghpvc/?username=h3x4n0nym&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation eating contribution graph" />
 
 </div>
 
@@ -18,13 +20,19 @@
 
 ## `0x00` &nbsp; About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```yaml
+handle:        h3x4n0nym
+name:          Shalva Lekishvili
 role:          SOC Analyst / Cybersecurity Professional
-focus:         Threat Detection · Incident Response · Penetration Testing
+focus:         Threat Detection · Incident Response · Pentesting
 mindset:       Purple Team (Red instincts, Blue discipline)
 currently:     Deepening CTI + offensive security skills
-fun_fact:      Believes every log file is telling a story
-contact:       linkedin.com/in/shalva-lekishvili
+fun_fact:      Reads packet captures for fun
+status:        [ONLINE] actively hunting threats
 ```
 
 🔐 &nbsp;Cybersecurity professional focused on **SOC operations, threat intelligence, and penetration testing**
@@ -37,7 +45,20 @@ contact:       linkedin.com/in/shalva-lekishvili
 
 💬 &nbsp;Ask me about SOC workflows, pentest methodology, or threat triage
 
-⚡ &nbsp;Fun fact: I'd rather read a packet capture than a novel
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=h3x4n0nym&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&layout=compact" onerror="this.style.display='none'" />
+
+<img width="100%" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/wave.svg" onerror="this.style.display='none'" />
+
+<br/>
+
+<img width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -56,14 +77,14 @@ contact:       linkedin.com/in/shalva-lekishvili
 
 **Tools & Platforms**
 
+<img src="https://skillicons.dev/icons?i=linux,py,bash,git&theme=dark" />
+<br/>
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=2596CD)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -72,26 +93,26 @@ contact:       linkedin.com/in/shalva-lekishvili
 ## `0x02` &nbsp; Certifications
 
 <details open>
-<summary><b>🛡️ TryHackMe Path Certifications</b></summary>
+<summary><b>🛡️ TryHackMe Path Certifications — click to collapse</b></summary>
 <br>
 
 | Certificate | Issued | Expires | Credential |
 |---|---|---|---|
 | 🏅 AOC 2025 Certificate | Dec 2025 | — | `THM-EGTUQF4CAI` |
-| 🕵️ CTI – CISA JCDC Triage Fusion & Analysis (Apprentice) | Nov 2025 | - | `THM-JVR3U2HPKS` |
-| ⚙️ Security Engineer | Sep 2025 | - | `THM-2MWEFSMO18` |
-| 🔵 SOC Level 1 | Sep 2025 | - | `THM-YHFGKSGY28` |
-| 🔵 SOC Level 2 | Sep 2025 | - | `THM-TH8U8ODRGS` |
-| 🔴 Offensive Pentesting | Sep 2025 | - | `THM-O5YB6D7QMZ` |
-| 🌐 Web Fundamentals | Sep 2025 | - | `THM-Y05LJ9JOTY` |
-| 📜 CompTIA Pentest+ | Sep 2025 | - | `THM-JSEWACT2EY` |
-| 🥋 Jr Penetration Tester | Sep 2025 | - | `THM-DFCKXEC7AT` |
-| 🎯 Red Teaming | Sep 2025 | - | `THM-HEX0VWNFTS` |
+| 🕵️ CTI – CISA JCDC Triage Fusion & Analysis (Apprentice) | Nov 2025 | Nov 2035 | `THM-JVR3U2HPKS` |
+| ⚙️ Security Engineer | Sep 2025 | Sep 2028 | `THM-2MWEFSMO18` |
+| 🔵 SOC Level 1 | Sep 2025 | Sep 2030 | `THM-YHFGKSGY28` |
+| 🔵 SOC Level 2 | Sep 2025 | Sep 2030 | `THM-TH8U8ODRGS` |
+| 🔴 Offensive Pentesting | Sep 2025 | Sep 2030 | `THM-O5YB6D7QMZ` |
+| 🌐 Web Fundamentals | Sep 2025 | Sep 2028 | `THM-Y05LJ9JOTY` |
+| 📜 CompTIA Pentest+ | Sep 2025 | Sep 2028 | `THM-JSEWACT2EY` |
+| 🥋 Jr Penetration Tester | Sep 2025 | Sep 2030 | `THM-DFCKXEC7AT` |
+| 🎯 Red Teaming | Sep 2025 | Sep 2030 | `THM-HEX0VWNFTS` |
 
 </details>
 
 <details>
-<summary><b>🎓 Additional Certifications & Training</b></summary>
+<summary><b>🎓 Additional Certifications & Training — click to expand</b></summary>
 <br>
 
 | Certificate | Issuer | Issued |
@@ -150,7 +171,7 @@ Short description of what it does and what it demonstrates.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=h3x4n0nym&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalva-lekishvili&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3x4n0nym&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=h3x4n0nym&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=ff3333&currStreakLabel=00FF41" />
 
@@ -159,10 +180,10 @@ Short description of what it does and what it demonstrates.
 </div>
 
 <details>
-<summary><b>🏆 GitHub Trophies</b></summary>
+<summary><b>🏆 GitHub Trophies — click to expand</b></summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=h3x4n0nym&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=h3x4n0nym&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&animation=flipIn" />
 </div>
 </details>
 
@@ -174,14 +195,17 @@ Short description of what it does and what it demonstrates.
 
 📡 &nbsp; Open to SOC / Blue Team / Pentest opportunities and collaboration
 
-<a href="https://www.linkedin.com/in/shalva-lekishvili/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/shalva-lekishvili/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/h3x4n0nym"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=8be9fd&center=true&vCenter=true&width=600&lines=%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22" />
 
-<sub>⭐ If this profile inspires you, consider following along the journey.</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<sub>⭐ If this profile inspires you, consider following along the journey — <b>@h3x4n0nym</b></sub>
 
 </div>

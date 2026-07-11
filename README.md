@@ -39,22 +39,22 @@
 
 ### 🏆 Certifications
 
-| Certificate | Issuer | Issued | Expires |
-|---|---|---|---|
-| AOC 2025 Certificate | TryHackMe | Dec 2025 | — |
-| CTI – CISA JCDC Triage Fusion & Analysis (Apprentice) | TryHackMe | Nov 2025 | Nov 2035 |
-| Security Engineer | TryHackMe | Sep 2025 | Sep 2028 |
-| SOC Level 1 | TryHackMe | Sep 2025 | Sep 2030 |
-| SOC Level 2 | TryHackMe | Sep 2025 | Sep 2030 |
-| Offensive Pentesting | TryHackMe | Sep 2025 | Sep 2030 |
-| Web Fundamentals | TryHackMe | Sep 2025 | Sep 2028 |
-| CompTIA Pentest+ | TryHackMe | Sep 2025 | Sep 2028 |
-| Jr Penetration Tester | TryHackMe | Sep 2025 | Sep 2030 |
-| Red Teaming | TryHackMe | Sep 2025 | Sep 2030 |
-| CompTIA Pentest+ (Ethical Hacking) | Udemy | Sep 2024 | — |
-| SuperMap GIS Solutions for Telecommunications | SuperMap GIS | Nov 2021 | — |
-| Fundamentals of Computer Hacking | infySEC | Jun 2021 | — |
-| Cyber Security and Ethical Hacking | Georgian Project Andromeda | Oct 2020 | — |
+| Certificate | Issuer | Issued |
+|---|---|---|
+| AOC 2025 Certificate | TryHackMe | Dec 2025 |
+| CTI – CISA JCDC Triage Fusion & Analysis (Apprentice) | TryHackMe | Nov 2025 |
+| Security Engineer | TryHackMe | Sep 2025 |
+| SOC Level 1 | TryHackMe | Sep 2025 |
+| SOC Level 2 | TryHackMe | Sep 2025 |
+| Offensive Pentesting | TryHackMe | Sep 2025 |
+| Web Fundamentals | TryHackMe | Sep 2025 |
+| CompTIA Pentest+ | TryHackMe | Sep 2025 |
+| Jr Penetration Tester | TryHackMe | Sep 2025 |
+| Red Teaming | TryHackMe | Sep 2025 |
+| CompTIA Pentest+ (Ethical Hacking) | Udemy | Sep 2024 |
+| SuperMap GIS Solutions for Telecommunications | SuperMap GIS | Nov 2021 |
+| Fundamentals of Computer Hacking | infySEC | Jun 2021 |
+| Cyber Security and Ethical Hacking | Georgian Project Andromeda | Oct 2020 |
 
 <sub>Full credential IDs and verification links available on [LinkedIn](https://www.linkedin.com/in/shalva-lekishvili/details/certifications/).</sub>
 
